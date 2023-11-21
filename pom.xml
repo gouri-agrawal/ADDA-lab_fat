@@ -3,5 +3,7 @@
   <groupId>com.lab_fat</groupId>
   <artifactId>lab_fat</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>lab_fat</name>
+  <build>
+	  <finalName>lab_fat</finalName>
+  </build>
 </project>
